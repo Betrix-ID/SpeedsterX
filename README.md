@@ -75,7 +75,7 @@ SpeedsterX -R
 
 <ul>
 <li><a href="https://developer.android.com/studio/command-line/adb" target="_blank">Android Developer Documentation</a></li>
-<li><a href="https://forum.xda-developers.com" target="_blank">XDA Developers Community</a></li>
+<li><a href="https://source.android.com/docs/core/power/app_mgmt?hl=id" target="_blank"> Android Open Source Idle</a></li>
 <li><a href="https://stackoverflow.com/questions/tagged/android" target="_blank">Stack Overflow Help & Q&A</a></li>
 </ul>
 
