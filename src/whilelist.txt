@@ -1,0 +1,11 @@
+org.telegram.messenger
+com.ss.android.ugc.trill
+com.instagram.android
+com.whatsapp
+com.mobile.legends
+com.tencent.ig
+com.spotify.music
+com.google.android.youtube
+com.android.systemui
+com.sec.android.app.launcher
+com.android.chrome
